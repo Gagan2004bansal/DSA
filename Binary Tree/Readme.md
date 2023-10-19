@@ -11,8 +11,8 @@ In this part we will learn
 8. Inorder / PreOrder / Postorder using Iteration.
 
 
-(a) 1-4 --> BinaryTree
-(b) 5 -->   AdvancedBinaryTree
-(c) 6 -->   countLeafNodes
-(d) 7 -->   HeightOfBinaryTree 
+1-4 --> BinaryTree  <br>
+5 -->   AdvancedBinaryTree  <br>
+6 -->   countLeafNodes  <br>
+7 -->   HeightOfBinaryTree <br>
   
