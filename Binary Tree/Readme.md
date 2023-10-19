@@ -1,4 +1,4 @@
-@@ Binary Tree -- Data Structure and Algorithms @@
+<span color="red" >Binary Tree -- Data Structure and Algorithms</span>
 
 In this part we will learn 
 1. Creating of Binary tree using buildTree Recursion.
