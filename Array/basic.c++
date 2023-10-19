@@ -12,11 +12,13 @@ int main(){
     }
     for(int i = 0; i < n; i++){
         cout << arr[i] << " ";
-    }cout << endl;
+    }
+    cout << endl;
     arr[2] = 10;
     cout << "After Updation" << endl;
     for(int i = 0; i < n; i++){
         cout << arr[i] << " ";
-    }cout << endl;
+    }
+    cout << endl;
     return 0;
 }
