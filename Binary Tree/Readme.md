@@ -8,7 +8,9 @@ In this part we will learn
 5. Reverse Level Order Trasversal.
 6. Leaf Count Nodes in Binary Tree.
 7. Finding Height/Depth of Binary Tree.
-8. Inorder / PreOrder / Postorder using Iteration.
+8. Check for Balanced Tree.
+9. Identical or Same Binary Tree.
+10. Inorder / PreOrder / Postorder using Iteration.
 
 
 1-4 --> BinaryTree  <br>
