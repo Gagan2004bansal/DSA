@@ -1,4 +1,5 @@
 # DSA C++ 
+Beginner Friendly 
 Starting of Journey to kill Data Structures and Algorithms
 1. Array
 2. Searching
