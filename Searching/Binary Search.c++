@@ -42,3 +42,5 @@ int main()
     BinarySearch(n, arr, key);
     return 0;
 }
+
+// Binary Search Works on Time Complexity of O(logN)
