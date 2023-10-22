@@ -31,3 +31,5 @@ int main()
     LinearSearch(n, arr, key);
     return 0;
 }
+
+// Linear Search works under O(N) Time Complexity
