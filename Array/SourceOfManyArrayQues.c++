@@ -1,3 +1,4 @@
+/////  Reverse String Question   /////
 // #include <iostream>
 // #include <string>
 // using namespace std;
@@ -25,6 +26,9 @@
 //     return 0;
 // }
 
+
+///// Factorial Of Number Using Recursion /////
+
 // #include <iostream>
 // using namespace std;
 // int factorial(int n)
@@ -48,6 +52,8 @@
 
 //     return 0;
 // }
+
+///// Tower of Hanoi /////
 
 // #include <iostream>
 // using namespace std;
@@ -98,6 +104,8 @@
 //     return 0;
 // }
 
+///// Toggle all alphabhats using class /////
+
 // #include <iostream>
 // #include <string>
 // using namespace std;
@@ -144,6 +152,9 @@
 //     t.display();
 //     return 0;
 // }
+
+
+///// Find all pairs closet to zero ///// 
 
 // #include <iostream>
 // using namespace std;
@@ -198,7 +209,8 @@
 //     return 0;
 // }
 
-// Check for Majority Element in a sorted array
+///// Check for Majority Element in a sorted array /////
+
 // #include <iostream>
 // using namespace std;
 // void MajorityCheck(int *arr, int e, int s)
@@ -246,7 +258,8 @@
 //     return 0;
 // }
 
-// Find the missing integer
+///// Find the missing integer /////
+
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -283,7 +296,8 @@
 //     return 0;
 // }
 
-// count pair with given sum
+/////  count pair with given sum  /////
+
 // #include <iostream>
 // #include <algorithm>
 // using namespace std;
@@ -333,6 +347,8 @@
 //     return 0;
 // }
 
+///// Find all duplicates in an array /////
+
 // #include <iostream>
 // using namespace std;
 // int main()
@@ -373,7 +389,8 @@
 //     return 0;
 // }
 
-// Find Peak elemenet in array
+///// Find Peak elemenet in array /////
+
 // #include <iostream>
 // #include <vector>
 // using namespace std;
@@ -436,7 +453,8 @@
 //     return 0;
 // }
 
-// Move all negative elements in left side of array
+///// Move all negative elements in left side of array /////
+
 // #include <iostream>
 // #include <vector>
 // using namespace std;
@@ -474,7 +492,7 @@
 //     return 0;
 // }
 
-// Find minimum and maximum element in an array
+/////  Find minimum and maximum element in an array ///// 
 #include <iostream>
 using namespace std;
 int getMax(int *arr, int n, int maxEle)
