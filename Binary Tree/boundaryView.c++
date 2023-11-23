@@ -48,8 +48,14 @@ public:
         }
         ans.push_back(root->data);
 
-        trasverseLeft(root->left, ans);
-        trasverseLeft(root->right, ans);
+        if (root->left)
+        {
+            trasverseLeft(root->left, ans);
+        }
+        else
+        {
+            trasverseLeft(root->right, ans);
+        }
     }
     void trasverseLeaf(node *root, vector<int> &ans)
     {
