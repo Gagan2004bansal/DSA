@@ -11,6 +11,9 @@ Starting of Journey to kill Data Structures and Algorithms
 6. Stack
 7. Queue
 8. Binary Tree
+9. Hashing
+10. Binary Search Tree
+11. Heaps
 ---
 Why Data Structure and Algorithms is important ?
 
